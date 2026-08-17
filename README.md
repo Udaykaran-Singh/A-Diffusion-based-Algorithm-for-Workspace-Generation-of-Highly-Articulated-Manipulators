@@ -224,7 +224,7 @@ pip install numpy scipy matplotlib
 Run:
 
 ```bash
-python wang_chirikjian_workspace.py
+python highly_articulated_manipulator.py
 ```
 
 The script will:
