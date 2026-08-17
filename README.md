@@ -189,14 +189,13 @@ These checks are intended to verify the main mathematical components before perf
 
 ```text
 .
-├── wang_chirikjian_workspace.py
+├── highly_articulated_manipulator.py
 ├── README.md
 ├── requirements.txt
-└── figures/
-    ├── figure2_workspace_modules.png
-    ├── figure3_parameter_effects.png
-    ├── figure5_four_module_comparison.png
-    └── figure6_five_module_comparison.png
+├── figure2_workspace_modules.png
+├── figure3_parameter_effects.png
+├── figure5_four_module_comparison.png
+└── figure6_five_module_comparison.png
 ```
 
 ## Requirements
